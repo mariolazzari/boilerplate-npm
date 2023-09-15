@@ -1,17 +1,23 @@
 {
-	"author": "Mario Lazzari",
-	"description": "FreeCodeCamp rest api course",
-	"keywords": ["nodejs","rest","api","freecodecamp"],
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "author": "Mario Lazzari",
+  "description": "FreeCodeCamp rest api course",
+  "keywords": [
+    "nodejs",
+    "rest",
+    "api",
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
