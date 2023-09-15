@@ -1,7 +1,7 @@
 {
 	"author": "Mario Lazzari",
 	"description": "FreeCodeCamp rest api course",
-	"keywords": ["nodejs","rest","api"],
+	"keywords": ["nodejs","rest","api","freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
